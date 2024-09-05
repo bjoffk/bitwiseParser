@@ -1,0 +1,14 @@
+D:\dev\cSharp\bitwiseParser\bitwiseParser\bin\Debug\net8.0\bitwiseParser.exe
+D:\dev\cSharp\bitwiseParser\bitwiseParser\bin\Debug\net8.0\bitwiseParser.deps.json
+D:\dev\cSharp\bitwiseParser\bitwiseParser\bin\Debug\net8.0\bitwiseParser.runtimeconfig.json
+D:\dev\cSharp\bitwiseParser\bitwiseParser\bin\Debug\net8.0\bitwiseParser.dll
+D:\dev\cSharp\bitwiseParser\bitwiseParser\bin\Debug\net8.0\bitwiseParser.pdb
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\bitwiseParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\bitwiseParser.AssemblyInfoInputs.cache
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\bitwiseParser.AssemblyInfo.cs
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\bitwiseParser.csproj.CoreCompileInputs.cache
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\bitwiseParser.dll
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\refint\bitwiseParser.dll
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\bitwiseParser.pdb
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\bitwiseParser.genruntimeconfig.cache
+D:\dev\cSharp\bitwiseParser\bitwiseParser\obj\Debug\net8.0\ref\bitwiseParser.dll
